@@ -13,7 +13,7 @@ import (
 	"github.com/byuoitav/common/log"
 	"github.com/byuoitav/common/structs"
 	"github.com/byuoitav/kramer-driver/via"
-	"github.com/byuoitav/via-monitor/handlers"
+	"github.com/byuoitav/via-monitor/monitor"
 )
 
 /* global variable declaration */
